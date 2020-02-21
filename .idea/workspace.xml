@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d9ebc82-e199-44d1-89e4-212604480240" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6PpNDdHFT30cUplCk1qzbqcqK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\SPRING\ACTIVIDAD 04\gs-spring-boot-master\Actividad04\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Documents\SPRING\ACTIVIDAD 04\gs-spring-boot-master\Actividad04\src\main\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d9ebc82-e199-44d1-89e4-212604480240" name="Default Changelist" comment="" />
+      <created>1582260257770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582260257770</updated>
+      <workItem from="1582260276614" duration="3011000" />
+      <workItem from="1582263923735" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1582264356550">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582264356550" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1582264356550">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1582264356550" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1582264356549">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1582264356549" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1582264356550">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1582264356550" />
+    <state width="1323" height="283" key="GridCell.Tab.1.bottom" timestamp="1582264356542">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="283" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1582264356542" />
+    <state width="1323" height="283" key="GridCell.Tab.1.center" timestamp="1582264356542">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="283" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1582264356542" />
+    <state width="1323" height="283" key="GridCell.Tab.1.left" timestamp="1582264356542">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="283" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1582264356542" />
+    <state width="1323" height="283" key="GridCell.Tab.1.right" timestamp="1582264356542">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="283" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1582264356542" />
+    <state x="378" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1582260313058">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582260313058" />
+  </component>
+</project>
