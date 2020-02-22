@@ -10,6 +10,8 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 @Configuration
 public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
 
+    //Creamos los usuarios
+
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 
@@ -19,6 +21,8 @@ public class SpringSecurityConfig extends WebSecurityConfigurerAdapter {
                 .withUser("admin").password("{noop}password").roles("ADMIN");
 
     }
+
+    //Asignamos roles
     @Override
     protected void configure(HttpSecurity http) throws Exception {
 
